@@ -11,20 +11,20 @@ global.setting = {
 
 // Owner
 global.owner = [
-    ['6282148864989', 'Jarsépay', true]
+    ['62882007197249', 'Ayano', true]
 ]
 
 // Info
 global.info = {
-    pairingNumber: '', // Please fill your number starting with your country code, example: '6282148864989'
-    namaowner: 'Jarsépay',
-    nomorowner: '6282148864989',
-    packname: 'Sticker by ',
-    author: 'Jarsépay',
-    namabot: 'Jarsekai',
-    wm: 'I M  J A R S E K A I',
+    pairingNumber: '6285184754171', // Please fill your number starting with your country code, example: '6282148864989'
+    namaowner: 'Ayano',
+    nomorowner: '62882007197249',
+    packname: '',
+    author: '',
+    namabot: 'Mikami',
+    wm: '',
     stickpack: 'Created by',
-    stickauth: 'Jarsépay'
+    stickauth: 'Mikami'
 }
 
 // Thumbnail 
@@ -35,8 +35,8 @@ global.url = {
     akses: 'https://telegra.ph/file/6c7b9ffbdfb0096e1db3e.jpg',
     welcomes: 'https://telegra.ph/file/1a5df6c2eb53d24d4254c.jpg',
     lefts: 'https://telegra.ph/file/74abb87ac6082571db546.jpg',
-    sig: 'https://instagram.com/jarsepay',
-    sgh: 'https://github.com/jarsepay',
+    sig: 'https://instagram.com/rinka.433',
+    sgh: 'https://github.com/akashi433',
     sgc: 'https://chat.whatsapp.com/LGrtCe82EpbKvxYohoRxKn',
     sdc: 'https://s.id/aeonnixity',
     sid: 'https://s.id/jarsekai'
@@ -44,9 +44,9 @@ global.url = {
 
 // Donasi
 global.payment = {
-    psaweria: 'https://saweria.co/renfunix',
-    gopay: '082148864989',
-    dana: '082148864989'
+    psaweria: 'https://saweria.co/Otsukashi',
+    gopay: '085184754171',
+    dana: '0882007197249'
 }
 
 // Message
@@ -57,15 +57,15 @@ global.msg = {
 
 // Apikey
 global.api = {
-    lol: 'GataDios'
+    aya: ''
 
 }
 global.APIs = {
-    lol: "https://api.lolhumaan.xyz"
+    aya: "https://ayano2.vercel.app"
 }
 
 global.APIKeys = {
-    "https://api.lolhumaan.xyz": "GataDios"
+    "https://ayano2.vercel.app": ""
 }
 
 // RPG & Levelling
